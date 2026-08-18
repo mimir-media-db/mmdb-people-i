@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_italo_calvino",
+  "name": "Italo Calvino",
+  "external_ids": {
+    "wikidata": "Q154756",
+    "imdb": "nm0130902"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1923,
+  "death_year": 1985
+}

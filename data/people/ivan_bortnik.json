@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ivan_bortnik",
+  "name": "Ivan Bortnik",
+  "external_ids": {
+    "wikidata": "Q4094751",
+    "imdb": "nm0097550"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1939,
+  "death_year": 2019
+}
