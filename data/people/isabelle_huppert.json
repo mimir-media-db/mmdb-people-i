@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_isabelle_huppert",
+  "name": "Isabelle Huppert",
+  "external_ids": {
+    "wikidata": "Q106365",
+    "imdb": "nm0001376"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1953,
+  "death_year": null
+}
