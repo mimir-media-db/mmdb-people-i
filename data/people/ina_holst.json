@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ina_holst",
+  "name": "Ina Holst",
+  "external_ids": {
+    "wikidata": "Q21188492",
+    "imdb": "nm0392308"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955,
+  "death_year": 2017
+}

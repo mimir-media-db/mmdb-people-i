@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_imma_villa",
+  "name": "Imma Villa",
+  "external_ids": {
+    "wikidata": "Q60841018",
+    "imdb": "nm1690822"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}
