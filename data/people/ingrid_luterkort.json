@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ingrid_luterkort",
+  "name": "Ingrid Luterkort",
+  "external_ids": {
+    "wikidata": "Q460491",
+    "imdb": "nm0252446"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1910,
+  "death_year": 2011
+}

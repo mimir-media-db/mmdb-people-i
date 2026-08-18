@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ingrid_swede",
+  "name": "Ingrid Swede",
+  "external_ids": {
+    "wikidata": "Q4981624",
+    "imdb": "nm0842058"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

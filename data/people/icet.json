@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_icet",
+  "name": "Ice-T",
+  "external_ids": {
+    "wikidata": "Q309941",
+    "imdb": "nm0001384"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

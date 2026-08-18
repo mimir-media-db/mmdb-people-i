@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ian_mckellen",
+  "name": "Ian McKellen",
+  "external_ids": {
+    "wikidata": "Q170510",
+    "imdb": "nm0005212"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1939
+}

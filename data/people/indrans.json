@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_indrans",
+  "name": "Indrans",
+  "external_ids": {
+    "wikidata": "Q6026949",
+    "imdb": "nm1428724"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}
