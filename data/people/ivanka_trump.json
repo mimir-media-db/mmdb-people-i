@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ivanka_trump",
+  "name": "Ivanka Trump",
+  "external_ids": {
+    "wikidata": "Q239411",
+    "imdb": "nm1477533"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}
