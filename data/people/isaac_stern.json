@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_isaac_stern",
+  "name": "Isaac Stern",
+  "external_ids": {
+    "wikidata": "Q311317",
+    "imdb": "nm0827716"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1920,
+  "death_year": 2001
+}
