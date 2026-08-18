@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_irene_escolar",
+  "name": "Irene Escolar",
+  "external_ids": {
+    "wikidata": "Q442531",
+    "imdb": "nm1354955"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1988,
+  "death_year": null
+}
