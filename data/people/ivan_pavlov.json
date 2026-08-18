@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ivan_pavlov",
+  "name": "Ivan Pavlov",
+  "external_ids": {
+    "wikidata": "Q12281097",
+    "imdb": "nm0667790"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}
