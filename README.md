@@ -1,2 +1,3 @@
-# mmdb-people-i
-MMDB People — I
+# MMDB People — I
+
+People whose slug starts with 'i'.
