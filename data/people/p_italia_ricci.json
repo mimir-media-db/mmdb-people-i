@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_italia_ricci",
+  "name": "Italia Ricci",
+  "external_ids": {
+    "wikidata": "Q1402293",
+    "imdb": "nm2680758"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}
