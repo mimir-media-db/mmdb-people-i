@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_isaac",
+  "name": "Isaac",
+  "external_ids": {
+    "wikidata": "Q27908042",
+    "imdb": "nm5481665"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1988
+}
