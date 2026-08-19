@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_imri_biton",
+  "name": "Imri Biton",
+  "external_ids": {
+    "wikidata": "Q100712223",
+    "imdb": "nm8649519"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}
