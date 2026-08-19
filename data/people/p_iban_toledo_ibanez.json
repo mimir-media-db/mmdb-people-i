@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_iban_toledo_ibanez",
+  "name": "Iban Toledo Ibañez",
+  "external_ids": {
+    "wikidata": "Q114576611",
+    "imdb": "nm12924315"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}
