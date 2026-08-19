@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ismail_hakki_urun",
+  "name": "Ismail Hakki Ürün",
+  "external_ids": {
+    "wikidata": "Q17046890",
+    "imdb": "nm2900622"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}

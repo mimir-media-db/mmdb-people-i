@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_india_eisley",
+  "name": "India Eisley",
+  "external_ids": {
+    "wikidata": "Q5915240",
+    "imdb": "nm2086223"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1993
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ishtar",
+  "name": "Ishtar",
+  "external_ids": {
+    "wikidata": "Q2048477",
+    "imdb": "nm5021109"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1968
+}
