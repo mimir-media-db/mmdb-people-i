@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ilias_kobra",
+  "name": "Ilias Kobra",
+  "external_ids": {
+    "wikidata": "Q95786930",
+    "imdb": "nm4694372"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}
