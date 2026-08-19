@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_indrek_taalmaa",
+  "name": "Indrek Taalmaa",
+  "external_ids": {
+    "wikidata": "Q12364521",
+    "imdb": "nm0845820"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1967
+}
