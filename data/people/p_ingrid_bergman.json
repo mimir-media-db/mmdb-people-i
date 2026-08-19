@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ingrid_bergman",
+  "name": "Ingrid Bergman",
+  "external_ids": {
+    "wikidata": "Q43247",
+    "imdb": "nm0000006"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1915,
+  "death_year": 1982
+}

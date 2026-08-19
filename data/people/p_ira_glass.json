@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ira_glass",
+  "name": "Ira Glass",
+  "external_ids": {
+    "wikidata": "Q1672322",
+    "imdb": "nm1101712"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1959
+}
