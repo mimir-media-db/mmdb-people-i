@@ -498,6 +498,11 @@
     "path": "data/people/p_ian_gomez.json"
   },
   {
+    "id": "p_ian_gotler",
+    "name": "Ian Gotler",
+    "path": "data/people/p_ian_gotler.json"
+  },
+  {
     "id": "p_ian_gouw",
     "name": "Ian Gouw",
     "birth_year": 1997,
@@ -2338,6 +2343,12 @@
     "path": "data/people/p_igal_weitzman.json"
   },
   {
+    "id": "p_igby_rigney",
+    "name": "Igby Rigney",
+    "birth_year": 2003,
+    "path": "data/people/p_igby_rigney.json"
+  },
+  {
     "id": "p_iggy_azalea",
     "name": "Iggy Azalea",
     "birth_year": 1990,
@@ -2908,6 +2919,11 @@
     "name": "Igor Kovács",
     "birth_year": 1982,
     "path": "data/people/p_igor_kovacs.json"
+  },
+  {
+    "id": "p_igor_kovalsky",
+    "name": "Igor Kovalsky",
+    "path": "data/people/p_igor_kovalsky.json"
   },
   {
     "id": "p_igor_kristof",
@@ -3770,6 +3786,11 @@
     "path": "data/people/p_ila_firouzabadi.json"
   },
   {
+    "id": "p_ilai_amar",
+    "name": "Ilai Amar",
+    "path": "data/people/p_ilai_amar.json"
+  },
+  {
     "id": "p_ilan_dar",
     "name": "Ilan Dar",
     "birth_year": 1937,
@@ -4345,6 +4366,11 @@
     "name": "Ilja Racek",
     "birth_year": 1930,
     "path": "data/people/p_ilja_racek.json"
+  },
+  {
+    "id": "p_ilja_rautsi",
+    "name": "Ilja Rautsi",
+    "path": "data/people/p_ilja_rautsi.json"
   },
   {
     "id": "p_ilja_richter",
@@ -8781,6 +8807,11 @@
     "path": "data/people/p_iqbol_meliqoziyev.json"
   },
   {
+    "id": "p_ique_langa",
+    "name": "Ique Langa",
+    "path": "data/people/p_ique_langa.json"
+  },
+  {
     "id": "p_ira_carpelan",
     "name": "Ira Carpelan",
     "path": "data/people/p_ira_carpelan.json"
@@ -9068,6 +9099,12 @@
     "path": "data/people/p_iren_reppen.json"
   },
   {
+    "id": "p_iren_suto",
+    "name": "Irén Sütő",
+    "birth_year": 1926,
+    "path": "data/people/p_iren_suto.json"
+  },
+  {
     "id": "p_iren_szajki",
     "name": "Irén Szajki",
     "path": "data/people/p_iren_szajki.json"
@@ -9256,6 +9293,11 @@
     "name": "Irena Vacková",
     "birth_year": 1970,
     "path": "data/people/p_irena_vackova.json"
+  },
+  {
+    "id": "p_irena_veliskova",
+    "name": "Irena Velísková",
+    "path": "data/people/p_irena_veliskova.json"
   },
   {
     "id": "p_irena_zackova",
@@ -9881,6 +9923,11 @@
     "name": "Irina Grinyova",
     "birth_year": 1973,
     "path": "data/people/p_irina_grinyova.json"
+  },
+  {
+    "id": "p_irina_gromozda",
+    "name": "Irina Gromozda",
+    "path": "data/people/p_irina_gromozda.json"
   },
   {
     "id": "p_irina_jegorova",
@@ -10581,9 +10628,19 @@
     "path": "data/people/p_iryna_beniuk.json"
   },
   {
+    "id": "p_iryna_dovhan",
+    "name": "Iryna Dovhan",
+    "path": "data/people/p_iryna_dovhan.json"
+  },
+  {
     "id": "p_iryna_hromadska",
     "name": "Iryna Hromadska",
     "path": "data/people/p_iryna_hromadska.json"
+  },
+  {
+    "id": "p_iryna_hromozda",
+    "name": "Iryna Hromozda",
+    "path": "data/people/p_iryna_hromozda.json"
   },
   {
     "id": "p_iryna_hryshak",
@@ -10981,6 +11038,11 @@
     "name": "Isabel Abreu",
     "birth_year": 1978,
     "path": "data/people/p_isabel_abreu.json"
+  },
+  {
+    "id": "p_isabel_aime_gonzalezsola",
+    "name": "Isabel Aimé González-Sola",
+    "path": "data/people/p_isabel_aime_gonzalezsola.json"
   },
   {
     "id": "p_isabel_allende",
@@ -13263,6 +13325,11 @@
     "path": "data/people/p_issac_dovidad.json"
   },
   {
+    "id": "p_issam_dakka",
+    "name": "Issam Dakka",
+    "path": "data/people/p_issam_dakka.json"
+  },
+  {
     "id": "p_issam_talbi",
     "name": "Issam Talbi",
     "path": "data/people/p_issam_talbi.json"
@@ -13342,6 +13409,12 @@
     "name": "Istan Rozumny",
     "birth_year": 1966,
     "path": "data/people/p_istan_rozumny.json"
+  },
+  {
+    "id": "p_istvan_brody",
+    "name": "István Bródy",
+    "birth_year": 1882,
+    "path": "data/people/p_istvan_brody.json"
   },
   {
     "id": "p_istvan_bujtor",
@@ -13427,10 +13500,28 @@
     "path": "data/people/p_istvan_nagy.json"
   },
   {
+    "id": "p_istvan_nemeskurty",
+    "name": "István Nemeskürty",
+    "birth_year": 1925,
+    "path": "data/people/p_istvan_nemeskurty.json"
+  },
+  {
+    "id": "p_istvan_patho",
+    "name": "István Pathó",
+    "birth_year": 1959,
+    "path": "data/people/p_istvan_patho.json"
+  },
+  {
     "id": "p_istvan_szabo",
     "name": "István Szabó",
     "birth_year": 1938,
     "path": "data/people/p_istvan_szabo.json"
+  },
+  {
+    "id": "p_istvan_szots",
+    "name": "István Szőts",
+    "birth_year": 1912,
+    "path": "data/people/p_istvan_szots.json"
   },
   {
     "id": "p_istvan_tasnadi",
@@ -13928,6 +14019,12 @@
     "path": "data/people/p_iva_svarcova.json"
   },
   {
+    "id": "p_iva_zahran",
+    "name": "Iva Zahran",
+    "birth_year": 2005,
+    "path": "data/people/p_iva_zahran.json"
+  },
+  {
     "id": "p_ivailo_kotzev",
     "name": "Ivailo Kotzev",
     "path": "data/people/p_ivailo_kotzev.json"
@@ -14219,6 +14316,11 @@
     "name": "Ivan Dorn",
     "birth_year": 1988,
     "path": "data/people/p_ivan_dorn.json"
+  },
+  {
+    "id": "p_ivan_dovzhenko",
+    "name": "Ivan Dovzhenko",
+    "path": "data/people/p_ivan_dovzhenko.json"
   },
   {
     "id": "p_ivan_doykov",
@@ -14670,6 +14772,12 @@
     "name": "Ivan Maloča",
     "birth_year": 1961,
     "path": "data/people/p_ivan_maloca.json"
+  },
+  {
+    "id": "p_ivan_marcos",
+    "name": "Iván Marcos",
+    "birth_year": 1979,
+    "path": "data/people/p_ivan_marcos.json"
   },
   {
     "id": "p_ivan_marin",
