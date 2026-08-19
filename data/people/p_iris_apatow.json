@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_iris_apatow",
+  "name": "Iris Apatow",
+  "external_ids": {
+    "wikidata": "Q16021057",
+    "imdb": "nm2957717"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2002
+}
