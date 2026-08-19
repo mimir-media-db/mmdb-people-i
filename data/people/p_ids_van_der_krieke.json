@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ids_van_der_krieke",
+  "name": "Ids van der Krieke",
+  "external_ids": {
+    "wikidata": "Q111202981",
+    "imdb": "nm0471239"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}
