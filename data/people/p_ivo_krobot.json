@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ivo_krobot",
+  "name": "Ivo Krobot",
+  "external_ids": {
+    "wikidata": "Q12022096",
+    "imdb": "nm11490965"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1948
+}
