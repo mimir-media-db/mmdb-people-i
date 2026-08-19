@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ivan_ivanov",
+  "name": "Ivan Ivanov",
+  "external_ids": {
+    "wikidata": "Q12280916",
+    "imdb": "nm0412050"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1951,
+  "death_year": 2024
+}
