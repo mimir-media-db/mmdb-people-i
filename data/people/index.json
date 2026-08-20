@@ -10760,6 +10760,11 @@
     "path": "data/people/p_irina_margareta_nistor.json"
   },
   {
+    "id": "p_irina_margolina",
+    "name": "Irina Margolina",
+    "path": "data/people/p_irina_margolina.json"
+  },
+  {
     "id": "p_irina_martynenko",
     "name": "Irina Martynenko",
     "birth_year": 1995,
@@ -11601,6 +11606,11 @@
     "id": "p_isaac_andrews",
     "name": "Isaac Andrews",
     "path": "data/people/p_isaac_andrews.json"
+  },
+  {
+    "id": "p_isaac_aptaker",
+    "name": "Isaac Aptaker",
+    "path": "data/people/p_isaac_aptaker.json"
   },
   {
     "id": "p_isaac_bardavid",
@@ -13989,6 +13999,12 @@
     "path": "data/people/p_ismail_zagros.json"
   },
   {
+    "id": "p_isman_h_suryaman",
+    "name": "Isman H. Suryaman",
+    "birth_year": 1976,
+    "path": "data/people/p_isman_h_suryaman.json"
+  },
+  {
     "id": "p_ismat_alamgir",
     "name": "Ismat Alamgir",
     "birth_year": 1988,
@@ -14023,6 +14039,12 @@
     "name": "Işın Karaca",
     "birth_year": 1973,
     "path": "data/people/p_isn_karaca.json"
+  },
+  {
+    "id": "p_isobel_wallerbridge",
+    "name": "Isobel Waller-Bridge",
+    "birth_year": 1984,
+    "path": "data/people/p_isobel_wallerbridge.json"
   },
   {
     "id": "p_isold_halldorudottir",
