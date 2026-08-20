@@ -2598,6 +2598,12 @@
     "path": "data/people/p_ignacio_del_moral_ituarte.json"
   },
   {
+    "id": "p_ignacio_del_valle",
+    "name": "Ignacio del Valle",
+    "birth_year": 1970,
+    "path": "data/people/p_ignacio_del_valle.json"
+  },
+  {
     "id": "p_ignacio_duran",
     "name": "Ignacio Duran",
     "path": "data/people/p_ignacio_duran.json"
@@ -5382,6 +5388,12 @@
     "name": "Ilya Shakunov",
     "birth_year": 1970,
     "path": "data/people/p_ilya_shakunov.json"
+  },
+  {
+    "id": "p_ilya_shilovsky",
+    "name": "Ilya Shilovsky",
+    "birth_year": 1970,
+    "path": "data/people/p_ilya_shilovsky.json"
   },
   {
     "id": "p_ilya_shipilov",
@@ -14438,6 +14450,12 @@
     "path": "data/people/p_itay_pinchas_akirav.json"
   },
   {
+    "id": "p_itay_segal",
+    "name": "Itay Segal",
+    "birth_year": 1980,
+    "path": "data/people/p_itay_segal.json"
+  },
+  {
     "id": "p_itay_tal",
     "name": "Itay Tal",
     "birth_year": 1984,
@@ -17778,6 +17796,12 @@
     "name": "Izer Aliu",
     "birth_year": 1981,
     "path": "data/people/p_izer_aliu.json"
+  },
+  {
+    "id": "p_izhar_harlev",
+    "name": "Izhar Harlev",
+    "birth_year": 1969,
+    "path": "data/people/p_izhar_harlev.json"
   },
   {
     "id": "p_izia",
