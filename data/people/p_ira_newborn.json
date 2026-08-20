@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ira_newborn",
+  "name": "Ira Newborn",
+  "external_ids": {
+    "wikidata": "Q725454",
+    "imdb": "nm0627673"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1949
+}
