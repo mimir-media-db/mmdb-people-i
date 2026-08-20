@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_itaru_era",
+  "name": "Itaru Era",
+  "external_ids": {
+    "wikidata": "Q11551294",
+    "imdb": "nm1024275"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1961
+}
