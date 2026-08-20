@@ -1180,6 +1180,12 @@
     "path": "data/people/p_iazua_larios.json"
   },
   {
+    "id": "p_ib_kastrup",
+    "name": "Ib Kastrup",
+    "birth_year": 1955,
+    "path": "data/people/p_ib_kastrup.json"
+  },
+  {
     "id": "p_ib_makwarth",
     "name": "Ib Makwarth",
     "birth_year": 1937,
@@ -1628,6 +1634,12 @@
     "name": "Ichikawa Tōru",
     "birth_year": 1948,
     "path": "data/people/p_ichikawa_toru.json"
+  },
+  {
+    "id": "p_ichiko_hashimoto",
+    "name": "Ichiko Hashimoto",
+    "birth_year": 1952,
+    "path": "data/people/p_ichiko_hashimoto.json"
   },
   {
     "id": "p_ichiro_hashimoto",
@@ -2790,6 +2802,12 @@
     "name": "Igor Cotrim",
     "birth_year": 1974,
     "path": "data/people/p_igor_cotrim.json"
+  },
+  {
+    "id": "p_igor_czerniawski",
+    "name": "Igor Czerniawski",
+    "birth_year": 1958,
+    "path": "data/people/p_igor_czerniawski.json"
   },
   {
     "id": "p_igor_damnjanovic",
@@ -3967,6 +3985,12 @@
     "name": "Ilan Klipper",
     "birth_year": 1977,
     "path": "data/people/p_ilan_klipper.json"
+  },
+  {
+    "id": "p_ilan_virtzberg",
+    "name": "Ilan Virtzberg",
+    "birth_year": 1951,
+    "path": "data/people/p_ilan_virtzberg.json"
   },
   {
     "id": "p_ilan_ziv",
@@ -6024,6 +6048,11 @@
     "id": "p_ina_sapranauskiene",
     "name": "Ina Šapranauskiene",
     "path": "data/people/p_ina_sapranauskiene.json"
+  },
+  {
+    "id": "p_ina_siefert",
+    "name": "Ina Siefert",
+    "path": "data/people/p_ina_siefert.json"
   },
   {
     "id": "p_ina_sohlberg",
@@ -9105,6 +9134,12 @@
     "path": "data/people/p_iraida_polanco.json"
   },
   {
+    "id": "p_iraj_afshar",
+    "name": "Iraj Afshar",
+    "birth_year": 1925,
+    "path": "data/people/p_iraj_afshar.json"
+  },
+  {
     "id": "p_iraj_ghaderi",
     "name": "Iraj Ghaderi",
     "birth_year": 1935,
@@ -9482,6 +9517,12 @@
     "name": "Irena Pavlásková",
     "birth_year": 1960,
     "path": "data/people/p_irena_pavlaskova.json"
+  },
+  {
+    "id": "p_irena_pavlova",
+    "name": "Irena Pavlová",
+    "birth_year": 1951,
+    "path": "data/people/p_irena_pavlova.json"
   },
   {
     "id": "p_irena_ristic",
@@ -12099,6 +12140,11 @@
     "name": "Isabelle Caubère",
     "birth_year": 1954,
     "path": "data/people/p_isabelle_caubere.json"
+  },
+  {
+    "id": "p_isabelle_cottenceau",
+    "name": "Isabelle Cottenceau",
+    "path": "data/people/p_isabelle_cottenceau.json"
   },
   {
     "id": "p_isabelle_coutantpeyre",
@@ -14844,6 +14890,12 @@
     "path": "data/people/p_ivan_i_krasko.json"
   },
   {
+    "id": "p_ivan_iusco",
+    "name": "Ivan Iusco",
+    "birth_year": 1970,
+    "path": "data/people/p_ivan_iusco.json"
+  },
+  {
     "id": "p_ivan_ivanov",
     "name": "Ivan Ivanov",
     "birth_year": 1951,
@@ -16198,6 +16250,12 @@
     "name": "Ivars Seleckis",
     "birth_year": 1934,
     "path": "data/people/p_ivars_seleckis.json"
+  },
+  {
+    "id": "p_ivars_vigners",
+    "name": "Ivars Vīgners",
+    "birth_year": 1940,
+    "path": "data/people/p_ivars_vigners.json"
   },
   {
     "id": "p_ivars_zviedris",
