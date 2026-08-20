@@ -17,6 +17,12 @@
     "path": "data/people/p_i_m_vijayan.json"
   },
   {
+    "id": "p_i_marlene_king",
+    "name": "I. Marlene King",
+    "birth_year": 1962,
+    "path": "data/people/p_i_marlene_king.json"
+  },
+  {
     "id": "p_i_mueenuddin_ahmed",
     "name": "I. Mueenuddin Ahmed",
     "birth_year": 1973,
@@ -2741,6 +2747,12 @@
     "path": "data/people/p_igone_de_jongh.json"
   },
   {
+    "id": "p_igor_ageyev",
+    "name": "Igor Ageyev",
+    "birth_year": 1958,
+    "path": "data/people/p_igor_ageyev.json"
+  },
+  {
     "id": "p_igor_alexandrovich",
     "name": "Igor Alexandrovich",
     "path": "data/people/p_igor_alexandrovich.json"
@@ -2986,6 +2998,12 @@
     "name": "Igor Kalyonov",
     "birth_year": 1967,
     "path": "data/people/p_igor_kalyonov.json"
+  },
+  {
+    "id": "p_igor_kantyukov",
+    "name": "Igor Kantyukov",
+    "birth_year": 1945,
+    "path": "data/people/p_igor_kantyukov.json"
   },
   {
     "id": "p_igor_kashintsev",
@@ -3620,6 +3638,12 @@
     "path": "data/people/p_ihor_poklad.json"
   },
   {
+    "id": "p_ihor_stetsiuk",
+    "name": "Ihor Stetsiuk",
+    "birth_year": 1958,
+    "path": "data/people/p_ihor_stetsiuk.json"
+  },
+  {
     "id": "p_ihor_vysnevskyi",
     "name": "Ihor Vysnevskyi",
     "path": "data/people/p_ihor_vysnevskyi.json"
@@ -3864,6 +3888,12 @@
     "name": "Ikkei Watanabe",
     "birth_year": 1962,
     "path": "data/people/p_ikkei_watanabe.json"
+  },
+  {
+    "id": "p_ikki_kajiwara",
+    "name": "Ikki Kajiwara",
+    "birth_year": 1936,
+    "path": "data/people/p_ikki_kajiwara.json"
   },
   {
     "id": "p_ikki_katashima",
@@ -4712,6 +4742,12 @@
     "id": "p_ilkka_mertsola",
     "name": "Ilkka Mertsola",
     "path": "data/people/p_ilkka_mertsola.json"
+  },
+  {
+    "id": "p_ilkka_talasranta",
+    "name": "Ilkka Talasranta",
+    "birth_year": 1964,
+    "path": "data/people/p_ilkka_talasranta.json"
   },
   {
     "id": "p_ilkka_vainio",
@@ -6258,6 +6294,12 @@
     "name": "Iñaki Ros",
     "birth_year": 1999,
     "path": "data/people/p_inaki_ros.json"
+  },
+  {
+    "id": "p_inaki_salvador",
+    "name": "Iñaki Salvador",
+    "birth_year": 1962,
+    "path": "data/people/p_inaki_salvador.json"
   },
   {
     "id": "p_inaki_sanchez_arrieta",
@@ -9084,6 +9126,12 @@
     "path": "data/people/p_ipshita_mohanty.json"
   },
   {
+    "id": "p_ipsita_roy_chakraverti",
+    "name": "Ipsita Roy Chakraverti",
+    "birth_year": 1950,
+    "path": "data/people/p_ipsita_roy_chakraverti.json"
+  },
+  {
     "id": "p_iqbaal_ramadhan",
     "name": "Iqbaal Ramadhan",
     "birth_year": 1999,
@@ -10697,6 +10745,12 @@
     "id": "p_iris_torres",
     "name": "Iris Torres",
     "path": "data/people/p_iris_torres.json"
+  },
+  {
+    "id": "p_iris_yamashita",
+    "name": "Iris Yamashita",
+    "birth_year": 1965,
+    "path": "data/people/p_iris_yamashita.json"
   },
   {
     "id": "p_irish_bella",
@@ -13356,6 +13410,12 @@
     "path": "data/people/p_ismael_la_rosa.json"
   },
   {
+    "id": "p_ismael_lo",
+    "name": "Ismaël Lô",
+    "birth_year": 1956,
+    "path": "data/people/p_ismael_lo.json"
+  },
+  {
     "id": "p_ismael_martinez",
     "name": "Ismael Martínez",
     "birth_year": 1972,
@@ -15792,6 +15852,12 @@
     "id": "p_ivan_vescovo",
     "name": "Iván Vescovo",
     "path": "data/people/p_ivan_vescovo.json"
+  },
+  {
+    "id": "p_ivan_vidic",
+    "name": "Ivan Vidić",
+    "birth_year": 1965,
+    "path": "data/people/p_ivan_vidic.json"
   },
   {
     "id": "p_ivan_vladimirov",
