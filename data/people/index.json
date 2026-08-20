@@ -7392,6 +7392,11 @@
     "path": "data/people/p_ines_molina.json"
   },
   {
+    "id": "p_ines_morales",
+    "name": "Inés Morales",
+    "path": "data/people/p_ines_morales.json"
+  },
+  {
     "id": "p_ines_najar",
     "name": "Ines Najar",
     "birth_year": 1983,
@@ -9072,6 +9077,11 @@
     "name": "Invader",
     "birth_year": 1968,
     "path": "data/people/p_invader.json"
+  },
+  {
+    "id": "p_inyoung_park",
+    "name": "Inyoung Park",
+    "path": "data/people/p_inyoung_park.json"
   },
   {
     "id": "p_inzalna_balqis",
@@ -14935,6 +14945,12 @@
     "path": "data/people/p_iva_fruhlingova.json"
   },
   {
+    "id": "p_iva_hopperger",
+    "name": "Iva Höpperger",
+    "birth_year": 2013,
+    "path": "data/people/p_iva_hopperger.json"
+  },
+  {
     "id": "p_iva_huttnerova",
     "name": "Iva Hüttnerová",
     "birth_year": 1948,
@@ -15086,6 +15102,12 @@
     "name": "Iván Angelusz",
     "birth_year": 1967,
     "path": "data/people/p_ivan_angelusz.json"
+  },
+  {
+    "id": "p_ivan_arsenjev",
+    "name": "Ivan Arsenjev",
+    "birth_year": 1960,
+    "path": "data/people/p_ivan_arsenjev.json"
   },
   {
     "id": "p_ivan_artuso",
@@ -17607,6 +17629,11 @@
     "name": "Ivona Juka",
     "birth_year": 1975,
     "path": "data/people/p_ivona_juka.json"
+  },
+  {
+    "id": "p_ivona_kostyna",
+    "name": "Ivona Kostyna",
+    "path": "data/people/p_ivona_kostyna.json"
   },
   {
     "id": "p_ivona_marcinova",
