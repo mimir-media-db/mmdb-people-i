@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_igor_stravinsky",
+  "name": "Igor Stravinsky",
+  "external_ids": {
+    "wikidata": "Q7314",
+    "imdb": "nm0006311"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1882,
+  "death_year": 1971
+}
