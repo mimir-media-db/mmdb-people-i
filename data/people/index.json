@@ -237,6 +237,11 @@
     "path": "data/people/p_ian_anthony_dale.json"
   },
   {
+    "id": "p_ian_arber",
+    "name": "Ian Arber",
+    "path": "data/people/p_ian_arber.json"
+  },
+  {
     "id": "p_ian_ayres",
     "name": "Ian Ayres",
     "birth_year": 1949,
@@ -510,6 +515,12 @@
     "id": "p_ian_foreman",
     "name": "Ian Foreman",
     "path": "data/people/p_ian_foreman.json"
+  },
+  {
+    "id": "p_ian_fried",
+    "name": "Ian Fried",
+    "birth_year": 1985,
+    "path": "data/people/p_ian_fried.json"
   },
   {
     "id": "p_ian_gabriel",
@@ -788,6 +799,12 @@
     "id": "p_ian_markus",
     "name": "Ian Markus",
     "path": "data/people/p_ian_markus.json"
+  },
+  {
+    "id": "p_ian_martin",
+    "name": "Ian Martin",
+    "birth_year": 1953,
+    "path": "data/people/p_ian_martin.json"
   },
   {
     "id": "p_ian_masterson",
@@ -1450,6 +1467,12 @@
     "path": "data/people/p_ibrahim_drago.json"
   },
   {
+    "id": "p_ibrahim_eissa",
+    "name": "Ibrahim Eissa",
+    "birth_year": 1965,
+    "path": "data/people/p_ibrahim_eissa.json"
+  },
+  {
     "id": "p_ibrahim_el_batout",
     "name": "Ibrahim El Batout",
     "birth_year": 1963,
@@ -1733,6 +1756,18 @@
     "name": "Ichirō Kita",
     "birth_year": 1956,
     "path": "data/people/p_ichiro_kita.json"
+  },
+  {
+    "id": "p_ichiro_kusuno",
+    "name": "Ichirō Kusuno",
+    "birth_year": 1967,
+    "path": "data/people/p_ichiro_kusuno.json"
+  },
+  {
+    "id": "p_ichiro_mizuki",
+    "name": "Ichirō Mizuki",
+    "birth_year": 1948,
+    "path": "data/people/p_ichiro_mizuki.json"
   },
   {
     "id": "p_ichiro_nagai",
@@ -3251,6 +3286,12 @@
     "path": "data/people/p_igor_maslennikov.json"
   },
   {
+    "id": "p_igor_matvienko",
+    "name": "Igor Matvienko",
+    "birth_year": 1960,
+    "path": "data/people/p_igor_matvienko.json"
+  },
+  {
     "id": "p_igor_meglic",
     "name": "Igor Meglic",
     "path": "data/people/p_igor_meglic.json"
@@ -3510,6 +3551,12 @@
     "name": "Igor Stránský",
     "birth_year": 1946,
     "path": "data/people/p_igor_stransky.json"
+  },
+  {
+    "id": "p_igor_stravinsky",
+    "name": "Igor Stravinsky",
+    "birth_year": 1882,
+    "path": "data/people/p_igor_stravinsky.json"
   },
   {
     "id": "p_igor_strembitskyy",
@@ -4198,6 +4245,11 @@
     "name": "Ilana Levine",
     "birth_year": 1963,
     "path": "data/people/p_ilana_levine.json"
+  },
+  {
+    "id": "p_ilana_tan",
+    "name": "Ilana Tan",
+    "path": "data/people/p_ilana_tan.json"
   },
   {
     "id": "p_ilana_tsur",
@@ -4920,6 +4972,11 @@
     "path": "data/people/p_illana_diamant.json"
   },
   {
+    "id": "p_illary_alencastre",
+    "name": "Illary Alencastre",
+    "path": "data/people/p_illary_alencastre.json"
+  },
+  {
     "id": "p_illbliss",
     "name": "Illbliss",
     "path": "data/people/p_illbliss.json"
@@ -5273,6 +5330,12 @@
     "id": "p_ilya_demichev",
     "name": "Ilya Demichev",
     "path": "data/people/p_ilya_demichev.json"
+  },
+  {
+    "id": "p_ilya_demutsky",
+    "name": "Ilya Demutsky",
+    "birth_year": 1983,
+    "path": "data/people/p_ilya_demutsky.json"
   },
   {
     "id": "p_ilya_drevnov",
@@ -9838,6 +9901,12 @@
     "path": "data/people/p_irena_flury.json"
   },
   {
+    "id": "p_irena_havlova",
+    "name": "Irena Havlová",
+    "birth_year": 1959,
+    "path": "data/people/p_irena_havlova.json"
+  },
+  {
     "id": "p_irena_hejdova",
     "name": "Irena Hejdová",
     "birth_year": 1976,
@@ -14079,6 +14148,12 @@
     "path": "data/people/p_israel_horovitz.json"
   },
   {
+    "id": "p_israel_houghton",
+    "name": "Israel Houghton",
+    "birth_year": 1971,
+    "path": "data/people/p_israel_houghton.json"
+  },
+  {
     "id": "p_israel_katorza",
     "name": "Israel Katorza",
     "birth_year": 1968,
@@ -16149,6 +16224,12 @@
     "path": "data/people/p_ivan_taieb.json"
   },
   {
+    "id": "p_ivan_timshyn",
+    "name": "Ivan Timshyn",
+    "birth_year": 1974,
+    "path": "data/people/p_ivan_timshyn.json"
+  },
+  {
     "id": "p_ivan_tokman",
     "name": "Iván Tokman",
     "path": "data/people/p_ivan_tokman.json"
@@ -16336,6 +16417,12 @@
     "name": "Ivan Yurukov",
     "birth_year": 1978,
     "path": "data/people/p_ivan_yurukov.json"
+  },
+  {
+    "id": "p_ivan_zamotayev",
+    "name": "Ivan Zamotayev",
+    "birth_year": 1983,
+    "path": "data/people/p_ivan_zamotayev.json"
   },
   {
     "id": "p_ivan_zaric",
@@ -17228,6 +17315,11 @@
     "path": "data/people/p_ivo_jahelka.json"
   },
   {
+    "id": "p_ivo_keilwerth",
+    "name": "Ivo Keilwerth",
+    "path": "data/people/p_ivo_keilwerth.json"
+  },
+  {
     "id": "p_ivo_kortlang",
     "name": "Ivo Kortlang",
     "birth_year": 1993,
@@ -17412,6 +17504,11 @@
     "name": "Ivo Viktorin",
     "birth_year": 1955,
     "path": "data/people/p_ivo_viktorin.json"
+  },
+  {
+    "id": "p_ivo_w_punt",
+    "name": "Ivo W. Punt",
+    "path": "data/people/p_ivo_w_punt.json"
   },
   {
     "id": "p_ivo_zubaty",
@@ -17957,6 +18054,12 @@
     "name": "Izumi Fujimoto",
     "birth_year": 1991,
     "path": "data/people/p_izumi_fujimoto.json"
+  },
+  {
+    "id": "p_izumi_funasaki",
+    "name": "Izumi Funasaki",
+    "birth_year": 1992,
+    "path": "data/people/p_izumi_funasaki.json"
   },
   {
     "id": "p_izumi_inamori",
