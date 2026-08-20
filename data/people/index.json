@@ -146,6 +146,12 @@
     "path": "data/people/p_iain_kennedy.json"
   },
   {
+    "id": "p_iain_levison",
+    "name": "Iain Levison",
+    "birth_year": 1962,
+    "path": "data/people/p_iain_levison.json"
+  },
+  {
     "id": "p_iain_lu",
     "name": "Iain Lu",
     "birth_year": 2000,
@@ -387,6 +393,12 @@
     "name": "Ian Cairns",
     "birth_year": 1952,
     "path": "data/people/p_ian_cairns.json"
+  },
+  {
+    "id": "p_ian_chang",
+    "name": "Ian Chang",
+    "birth_year": 1988,
+    "path": "data/people/p_ian_chang.json"
   },
   {
     "id": "p_ian_chen",
@@ -2452,6 +2464,11 @@
     "path": "data/people/p_if.json"
   },
   {
+    "id": "p_ifa_fachir",
+    "name": "Ifa Fachir",
+    "path": "data/people/p_ifa_fachir.json"
+  },
+  {
     "id": "p_ifa_isfansyah",
     "name": "Ifa Isfansyah",
     "birth_year": 1979,
@@ -4135,6 +4152,12 @@
     "path": "data/people/p_ikro_kim.json"
   },
   {
+    "id": "p_ikue_osada",
+    "name": "Ikue Osada",
+    "birth_year": 1976,
+    "path": "data/people/p_ikue_osada.json"
+  },
+  {
     "id": "p_ikuko_tani",
     "name": "Ikuko Tani",
     "birth_year": 1939,
@@ -5092,6 +5115,12 @@
     "name": "Ilo-Ann Saarepera",
     "birth_year": 1994,
     "path": "data/people/p_iloann_saarepera.json"
+  },
+  {
+    "id": "p_ilona_ahti",
+    "name": "Ilona Ahti",
+    "birth_year": 1986,
+    "path": "data/people/p_ilona_ahti.json"
   },
   {
     "id": "p_ilona_bachelier",
@@ -7141,6 +7170,12 @@
     "path": "data/people/p_indre_patkauskaite.json"
   },
   {
+    "id": "p_indrek_hargla",
+    "name": "Indrek Hargla",
+    "birth_year": 1970,
+    "path": "data/people/p_indrek_hargla.json"
+  },
+  {
     "id": "p_indrek_ojari",
     "name": "Indrek Ojari",
     "birth_year": 1977,
@@ -8622,6 +8657,11 @@
     "path": "data/people/p_ingvild_holthe_bygdnes.json"
   },
   {
+    "id": "p_ingvild_langgard",
+    "name": "Ingvild Langgård",
+    "path": "data/people/p_ingvild_langgard.json"
+  },
+  {
     "id": "p_ingvild_sderlind",
     "name": "Ingvild Søderlind",
     "birth_year": 1974,
@@ -9499,6 +9539,12 @@
     "path": "data/people/p_ippiksaut_friesen.json"
   },
   {
+    "id": "p_ippolita_di_majo",
+    "name": "Ippolita di Majo",
+    "birth_year": 1972,
+    "path": "data/people/p_ippolita_di_majo.json"
+  },
+  {
     "id": "p_ipshita_mohanty",
     "name": "Ipshita Mohanty",
     "path": "data/people/p_ipshita_mohanty.json"
@@ -9550,6 +9596,12 @@
     "name": "Iqbal Theba",
     "birth_year": 1963,
     "path": "data/people/p_iqbal_theba.json"
+  },
+  {
+    "id": "p_iqbal_zavqibekov",
+    "name": "Iqbal Zavqibekov",
+    "birth_year": 1960,
+    "path": "data/people/p_iqbal_zavqibekov.json"
   },
   {
     "id": "p_iqbol_meliqoziyev",
@@ -9641,6 +9693,12 @@
     "id": "p_ira_von_gienanth",
     "name": "Ira von Gienanth",
     "path": "data/people/p_ira_von_gienanth.json"
+  },
+  {
+    "id": "p_ira_wedel",
+    "name": "Ira Wedel",
+    "birth_year": 1975,
+    "path": "data/people/p_ira_wedel.json"
   },
   {
     "id": "p_ira_wibowo",
@@ -9979,6 +10037,11 @@
     "path": "data/people/p_irena_karel.json"
   },
   {
+    "id": "p_irena_karpa",
+    "name": "Irena Karpa",
+    "path": "data/people/p_irena_karpa.json"
+  },
+  {
     "id": "p_irena_koci",
     "name": "Irena Kocí",
     "birth_year": 1973,
@@ -10068,6 +10131,12 @@
     "id": "p_irena_neradova",
     "name": "Irena Neradová",
     "path": "data/people/p_irena_neradova.json"
+  },
+  {
+    "id": "p_irena_obermannova",
+    "name": "Irena Obermannová",
+    "birth_year": 1962,
+    "path": "data/people/p_irena_obermannova.json"
   },
   {
     "id": "p_irena_pavlaskova",
@@ -11494,6 +11563,12 @@
     "path": "data/people/p_irwin_winkler.json"
   },
   {
+    "id": "p_irya_gmeyner",
+    "name": "Irya Gmeyner",
+    "birth_year": 1972,
+    "path": "data/people/p_irya_gmeyner.json"
+  },
+  {
     "id": "p_iryna_bardakova",
     "name": "Iryna Bardakova",
     "birth_year": 1983,
@@ -12625,6 +12700,12 @@
     "name": "Isabella Star LaBlanc",
     "birth_year": 1997,
     "path": "data/people/p_isabella_star_lablanc.json"
+  },
+  {
+    "id": "p_isabella_summers",
+    "name": "Isabella Summers",
+    "birth_year": 1980,
+    "path": "data/people/p_isabella_summers.json"
   },
   {
     "id": "p_isabella_vinet",
