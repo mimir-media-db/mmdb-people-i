@@ -6763,6 +6763,12 @@
     "path": "data/people/p_indika_ferdinando.json"
   },
   {
+    "id": "p_indio_solari",
+    "name": "Indio Solari",
+    "birth_year": 1949,
+    "path": "data/people/p_indio_solari.json"
+  },
+  {
     "id": "p_indira_cato",
     "name": "Indira Cato",
     "path": "data/people/p_indira_cato.json"
@@ -6870,6 +6876,12 @@
     "name": "Indra Kumar",
     "birth_year": 1952,
     "path": "data/people/p_indra_kumar.json"
+  },
+  {
+    "id": "p_indra_lesmana",
+    "name": "Indra Lesmana",
+    "birth_year": 1966,
+    "path": "data/people/p_indra_lesmana.json"
   },
   {
     "id": "p_indra_ove",
@@ -9481,6 +9493,12 @@
     "path": "data/people/p_iraia_elias.json"
   },
   {
+    "id": "p_iraida_noriega",
+    "name": "Iraida Noriega",
+    "birth_year": 1971,
+    "path": "data/people/p_iraida_noriega.json"
+  },
+  {
     "id": "p_iraida_polanco",
     "name": "Iraida Polanco",
     "birth_year": 1934,
@@ -10685,6 +10703,12 @@
     "name": "Irina Petrescu",
     "birth_year": 1941,
     "path": "data/people/p_irina_petrescu.json"
+  },
+  {
+    "id": "p_irina_pivovarova",
+    "name": "Irina Pivovarova",
+    "birth_year": 1939,
+    "path": "data/people/p_irina_pivovarova.json"
   },
   {
     "id": "p_irina_popow",
@@ -11983,6 +12007,12 @@
     "name": "Isabel Parra",
     "birth_year": 1939,
     "path": "data/people/p_isabel_parra.json"
+  },
+  {
+    "id": "p_isabel_pena",
+    "name": "Isabel Peña",
+    "birth_year": 1982,
+    "path": "data/people/p_isabel_pena.json"
   },
   {
     "id": "p_isabel_pintor",
@@ -17309,6 +17339,12 @@
     "name": "Ivo van Hove",
     "birth_year": 1958,
     "path": "data/people/p_ivo_van_hove.json"
+  },
+  {
+    "id": "p_ivo_viktorin",
+    "name": "Ivo Viktorin",
+    "birth_year": 1955,
+    "path": "data/people/p_ivo_viktorin.json"
   },
   {
     "id": "p_ivo_zubaty",
