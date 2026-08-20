@@ -1014,6 +1014,12 @@
     "path": "data/people/p_ian_teal.json"
   },
   {
+    "id": "p_ian_thomas",
+    "name": "Ian Thomas",
+    "birth_year": 1950,
+    "path": "data/people/p_ian_thomas.json"
+  },
+  {
     "id": "p_ian_thompson",
     "name": "Ian Thompson",
     "birth_year": 1949,
@@ -5041,6 +5047,12 @@
     "path": "data/people/p_ilya_alekseyev.json"
   },
   {
+    "id": "p_ilya_avramenko",
+    "name": "Ilya Avramenko",
+    "birth_year": 1964,
+    "path": "data/people/p_ilya_avramenko.json"
+  },
+  {
     "id": "p_ilya_belov",
     "name": "Ilya Belov",
     "path": "data/people/p_ilya_belov.json"
@@ -5609,6 +5621,12 @@
     "name": "Imanol Uribe",
     "birth_year": 1950,
     "path": "data/people/p_imanol_uribe.json"
+  },
+  {
+    "id": "p_imants_kalnins",
+    "name": "Imants Kalniņš",
+    "birth_year": 1941,
+    "path": "data/people/p_imants_kalnins.json"
   },
   {
     "id": "p_imants_slisans",
@@ -8735,6 +8753,12 @@
     "path": "data/people/p_ioanna_bolomyti.json"
   },
   {
+    "id": "p_ioanna_karystiani",
+    "name": "Ioanna Karystiani",
+    "birth_year": 1952,
+    "path": "data/people/p_ioanna_karystiani.json"
+  },
+  {
     "id": "p_ioanna_kolliopoulou",
     "name": "Ioanna Kolliopoulou",
     "path": "data/people/p_ioanna_kolliopoulou.json"
@@ -9075,6 +9099,12 @@
     "name": "Ira Glass",
     "birth_year": 1959,
     "path": "data/people/p_ira_glass.json"
+  },
+  {
+    "id": "p_ira_levin",
+    "name": "Ira Levin",
+    "birth_year": 1929,
+    "path": "data/people/p_ira_levin.json"
   },
   {
     "id": "p_ira_lewis",
@@ -11088,6 +11118,12 @@
     "path": "data/people/p_isaac_bardavid.json"
   },
   {
+    "id": "p_isaac_bashevis_singer",
+    "name": "Isaac Bashevis Singer",
+    "birth_year": 1904,
+    "path": "data/people/p_isaac_bashevis_singer.json"
+  },
+  {
     "id": "p_isaac_c_singleton_jr",
     "name": "Isaac C. Singleton Jr.",
     "birth_year": 1967,
@@ -12997,6 +13033,12 @@
     "id": "p_ishwak_singh",
     "name": "Ishwak Singh",
     "path": "data/people/p_ishwak_singh.json"
+  },
+  {
+    "id": "p_ishwar_chandra_vidyasagar",
+    "name": "Ishwar Chandra Vidyasagar",
+    "birth_year": 1820,
+    "path": "data/people/p_ishwar_chandra_vidyasagar.json"
   },
   {
     "id": "p_ishwar_rasiawan",
@@ -16605,6 +16647,12 @@
     "path": "data/people/p_ivo_hrbac.json"
   },
   {
+    "id": "p_ivo_husnjak",
+    "name": "Ivo Hušnjak",
+    "birth_year": 1956,
+    "path": "data/people/p_ivo_husnjak.json"
+  },
+  {
     "id": "p_ivo_jahelka",
     "name": "Ivo Jahelka",
     "birth_year": 1954,
@@ -16707,6 +16755,12 @@
     "name": "Ivo Novák",
     "birth_year": 1967,
     "path": "data/people/p_ivo_novak.json"
+  },
+  {
+    "id": "p_ivo_paunov",
+    "name": "Ivo Paunov",
+    "birth_year": 1949,
+    "path": "data/people/p_ivo_paunov.json"
   },
   {
     "id": "p_ivo_pavelek",
@@ -16829,6 +16883,12 @@
     "name": "Ivonni Maltezou",
     "birth_year": 1949,
     "path": "data/people/p_ivonni_maltezou.json"
+  },
+  {
+    "id": "p_ivor_guest_4th_viscount_wimborne",
+    "name": "Ivor Guest, 4th Viscount Wimborne",
+    "birth_year": 1968,
+    "path": "data/people/p_ivor_guest_4th_viscount_wimborne.json"
   },
   {
     "id": "p_ivri_lider",
@@ -17258,6 +17318,12 @@
     "name": "IZM",
     "birth_year": 1971,
     "path": "data/people/p_izm.json"
+  },
+  {
+    "id": "p_izo_hashimoto",
+    "name": "Izō Hashimoto",
+    "birth_year": 1954,
+    "path": "data/people/p_izo_hashimoto.json"
   },
   {
     "id": "p_izu_ojukwu",
