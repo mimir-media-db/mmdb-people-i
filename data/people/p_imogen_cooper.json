@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_imogen_cooper",
+  "name": "Imogen Cooper",
+  "external_ids": {
+    "wikidata": "Q4819213",
+    "imdb": "nm1055259"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1949
+}
