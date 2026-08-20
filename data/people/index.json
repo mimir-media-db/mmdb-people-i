@@ -2750,6 +2750,12 @@
     "path": "data/people/p_igor_biddau.json"
   },
   {
+    "id": "p_igor_bojovic",
+    "name": "Igor Bojovic",
+    "birth_year": 1968,
+    "path": "data/people/p_igor_bojovic.json"
+  },
+  {
     "id": "p_igor_botvin",
     "name": "Igor Botvin",
     "birth_year": 1973,
@@ -2929,6 +2935,12 @@
     "path": "data/people/p_igor_kashintsev.json"
   },
   {
+    "id": "p_igor_khoroshev",
+    "name": "Igor Khoroshev",
+    "birth_year": 1965,
+    "path": "data/people/p_igor_khoroshev.json"
+  },
+  {
     "id": "p_igor_khutsiyev",
     "name": "Igor Khutsiyev",
     "birth_year": 1952,
@@ -3001,6 +3013,12 @@
     "name": "Igor Krutoy",
     "birth_year": 1954,
     "path": "data/people/p_igor_krutoy.json"
+  },
+  {
+    "id": "p_igor_kuljeric",
+    "name": "Igor Kuljerić",
+    "birth_year": 1938,
+    "path": "data/people/p_igor_kuljeric.json"
   },
   {
     "id": "p_igor_kvasha",
@@ -3546,6 +3564,12 @@
     "id": "p_ihor_vysnevskyi",
     "name": "Ihor Vysnevskyi",
     "path": "data/people/p_ihor_vysnevskyi.json"
+  },
+  {
+    "id": "p_ihor_zhuk",
+    "name": "Ihor Zhuk",
+    "birth_year": 1951,
+    "path": "data/people/p_ihor_zhuk.json"
   },
   {
     "id": "p_ihsan_bilsev",
@@ -7099,6 +7123,12 @@
     "path": "data/people/p_ing_k.json"
   },
   {
+    "id": "p_inga_abele",
+    "name": "Inga Ābele",
+    "birth_year": 1972,
+    "path": "data/people/p_inga_abele.json"
+  },
+  {
     "id": "p_inga_alenius",
     "name": "Inga Ålenius",
     "birth_year": 1938,
@@ -8716,6 +8746,12 @@
     "path": "data/people/p_iole_lucchese.json"
   },
   {
+    "id": "p_ion_arretxe",
+    "name": "Ion Arretxe",
+    "birth_year": 1964,
+    "path": "data/people/p_ion_arretxe.json"
+  },
+  {
     "id": "p_ion_besoiu",
     "name": "Ion Besoiu",
     "birth_year": 1931,
@@ -8814,6 +8850,11 @@
     "name": "Ione Skye",
     "birth_year": 1970,
     "path": "data/people/p_ione_skye.json"
+  },
+  {
+    "id": "p_ionel_petroi",
+    "name": "Ionel Petroi",
+    "path": "data/people/p_ionel_petroi.json"
   },
   {
     "id": "p_ionut_brutaru",
@@ -11181,6 +11222,12 @@
     "name": "Isaac Stern",
     "birth_year": 1920,
     "path": "data/people/p_isaac_stern.json"
+  },
+  {
+    "id": "p_isaac_thomas_kottukapally",
+    "name": "Isaac Thomas Kottukapally",
+    "birth_year": 1947,
+    "path": "data/people/p_isaac_thomas_kottukapally.json"
   },
   {
     "id": "p_isaac_webb",
@@ -14460,6 +14507,11 @@
     "path": "data/people/p_ivan_cattaneo.json"
   },
   {
+    "id": "p_ivan_cermak",
+    "name": "Ivan Čermák",
+    "path": "data/people/p_ivan_cermak.json"
+  },
+  {
     "id": "p_ivan_chendei",
     "name": "Ivan Chendeĭ",
     "birth_year": 1922,
@@ -16476,6 +16528,11 @@
     "name": "Ivo Hama",
     "birth_year": 1964,
     "path": "data/people/p_ivo_hama.json"
+  },
+  {
+    "id": "p_ivo_heger",
+    "name": "Ivo Heger",
+    "path": "data/people/p_ivo_heger.json"
   },
   {
     "id": "p_ivo_heller",
