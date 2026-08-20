@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_imhotep",
+  "name": "Imhotep",
+  "external_ids": {
+    "wikidata": "Q3149003",
+    "imdb": "nm5247190"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1960
+}
