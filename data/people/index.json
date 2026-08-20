@@ -1087,6 +1087,18 @@
     "path": "data/people/p_ian_watkin.json"
   },
   {
+    "id": "p_ian_watson",
+    "name": "Ian Watson",
+    "birth_year": 1943,
+    "path": "data/people/p_ian_watson.json"
+  },
+  {
+    "id": "p_ian_whitcomb",
+    "name": "Ian Whitcomb",
+    "birth_year": 1941,
+    "path": "data/people/p_ian_whitcomb.json"
+  },
+  {
     "id": "p_ian_white",
     "name": "Ian White",
     "path": "data/people/p_ian_white.json"
@@ -2278,6 +2290,12 @@
     "path": "data/people/p_ievgen_pidnebesnyy.json"
   },
   {
+    "id": "p_if",
+    "name": "I-F",
+    "birth_year": 1999,
+    "path": "data/people/p_if.json"
+  },
+  {
     "id": "p_ifa_isfansyah",
     "name": "Ifa Isfansyah",
     "birth_year": 1979,
@@ -2911,6 +2929,12 @@
     "path": "data/people/p_igor_kashintsev.json"
   },
   {
+    "id": "p_igor_khutsiyev",
+    "name": "Igor Khutsiyev",
+    "birth_year": 1952,
+    "path": "data/people/p_igor_khutsiyev.json"
+  },
+  {
     "id": "p_igor_kirillov",
     "name": "Igor Kirillov",
     "birth_year": 1932,
@@ -3511,6 +3535,12 @@
     "name": "Ihor Podolchak",
     "birth_year": 1962,
     "path": "data/people/p_ihor_podolchak.json"
+  },
+  {
+    "id": "p_ihor_poklad",
+    "name": "Ihor Poklad",
+    "birth_year": 1941,
+    "path": "data/people/p_ihor_poklad.json"
   },
   {
     "id": "p_ihor_vysnevskyi",
@@ -12612,6 +12642,18 @@
     "path": "data/people/p_isao_tamagawa.json"
   },
   {
+    "id": "p_isao_tomita",
+    "name": "Isao Tomita",
+    "birth_year": 1932,
+    "path": "data/people/p_isao_tomita.json"
+  },
+  {
+    "id": "p_isao_yamada",
+    "name": "Isao Yamada",
+    "birth_year": 1951,
+    "path": "data/people/p_isao_yamada.json"
+  },
+  {
     "id": "p_isao_yukisada",
     "name": "Isao Yukisada",
     "birth_year": 1968,
@@ -13200,6 +13242,12 @@
     "id": "p_ismail_jilani",
     "name": "Ismail Jilani",
     "path": "data/people/p_ismail_jilani.json"
+  },
+  {
+    "id": "p_ismail_kadare",
+    "name": "Ismail Kadare",
+    "birth_year": 1936,
+    "path": "data/people/p_ismail_kadare.json"
   },
   {
     "id": "p_ismail_kanater",
@@ -13846,6 +13894,12 @@
     "id": "p_itandehui_jansen",
     "name": "Itandehui Jansen",
     "path": "data/people/p_itandehui_jansen.json"
+  },
+  {
+    "id": "p_itaru_era",
+    "name": "Itaru Era",
+    "birth_year": 1961,
+    "path": "data/people/p_itaru_era.json"
   },
   {
     "id": "p_itati_cantoral",
@@ -16347,6 +16401,12 @@
     "id": "p_ivo_baumanis",
     "name": "Ivo Baumanis",
     "path": "data/people/p_ivo_baumanis.json"
+  },
+  {
+    "id": "p_ivo_bresan",
+    "name": "Ivo Brešan",
+    "birth_year": 1936,
+    "path": "data/people/p_ivo_bresan.json"
   },
   {
     "id": "p_ivo_briedis",
