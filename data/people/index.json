@@ -1266,6 +1266,11 @@
     "path": "data/people/p_iara_lee.json"
   },
   {
+    "id": "p_iaroslav_komkov",
+    "name": "Iaroslav Komkov",
+    "path": "data/people/p_iaroslav_komkov.json"
+  },
+  {
     "id": "p_iazua_larios",
     "name": "Iazua Larios",
     "birth_year": 1984,
@@ -5017,6 +5022,11 @@
     "path": "data/people/p_illia_bieliak.json"
   },
   {
+    "id": "p_illia_makarenko",
+    "name": "Illia Makarenko",
+    "path": "data/people/p_illia_makarenko.json"
+  },
+  {
     "id": "p_illia_shapoval",
     "name": "Illia Shapoval",
     "path": "data/people/p_illia_shapoval.json"
@@ -5587,6 +5597,11 @@
     "id": "p_ilyssa_goodman",
     "name": "Ilyssa Goodman",
     "path": "data/people/p_ilyssa_goodman.json"
+  },
+  {
+    "id": "p_ilze_akmentina",
+    "name": "Ilze Akmentiņa",
+    "path": "data/people/p_ilze_akmentina.json"
   },
   {
     "id": "p_ilze_burkovska_jacobsen",
@@ -7692,6 +7707,12 @@
     "name": "Inga Siliņa",
     "birth_year": 1984,
     "path": "data/people/p_inga_silina.json"
+  },
+  {
+    "id": "p_inga_stre",
+    "name": "Inga Sætre",
+    "birth_year": 1978,
+    "path": "data/people/p_inga_stre.json"
   },
   {
     "id": "p_inga_strelkovaoboldina",
@@ -10202,6 +10223,12 @@
     "path": "data/people/p_irene_dorigotti.json"
   },
   {
+    "id": "p_irene_dresel",
+    "name": "Irène Drésel",
+    "birth_year": 1983,
+    "path": "data/people/p_irene_dresel.json"
+  },
+  {
     "id": "p_irene_emma_villamor",
     "name": "Irene Emma Villamor",
     "path": "data/people/p_irene_emma_villamor.json"
@@ -10404,6 +10431,11 @@
     "name": "Irene Ruiz",
     "birth_year": 1900,
     "path": "data/people/p_irene_ruiz.json"
+  },
+  {
+    "id": "p_irene_sankoff",
+    "name": "Irene Sankoff",
+    "path": "data/people/p_irene_sankoff.json"
   },
   {
     "id": "p_irene_schuller",
@@ -15917,6 +15949,11 @@
     "path": "data/people/p_ivan_matulik.json"
   },
   {
+    "id": "p_ivan_melashenko",
+    "name": "Ivan Melashenko",
+    "path": "data/people/p_ivan_melashenko.json"
+  },
+  {
     "id": "p_ivan_mendes",
     "name": "Ivan Mendes",
     "birth_year": 1985,
@@ -16069,6 +16106,12 @@
     "name": "Ivan Palúch",
     "birth_year": 1940,
     "path": "data/people/p_ivan_paluch.json"
+  },
+  {
+    "id": "p_ivan_parik",
+    "name": "Ivan Parík",
+    "birth_year": 1936,
+    "path": "data/people/p_ivan_parik.json"
   },
   {
     "id": "p_ivan_passer",
@@ -17685,6 +17728,18 @@
     "name": "Ivor Guest, 4th Viscount Wimborne",
     "birth_year": 1968,
     "path": "data/people/p_ivor_guest_4th_viscount_wimborne.json"
+  },
+  {
+    "id": "p_ivor_martinic",
+    "name": "Ivor Martinić",
+    "birth_year": 1984,
+    "path": "data/people/p_ivor_martinic.json"
+  },
+  {
+    "id": "p_ivor_powell",
+    "name": "Ivor Powell",
+    "birth_year": 1943,
+    "path": "data/people/p_ivor_powell.json"
   },
   {
     "id": "p_ivor_slaney",
