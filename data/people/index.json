@@ -802,6 +802,12 @@
     "path": "data/people/p_ian_mackinnon.json"
   },
   {
+    "id": "p_ian_mackley",
+    "name": "Ian Mackley",
+    "birth_year": 1942,
+    "path": "data/people/p_ian_mackley.json"
+  },
+  {
     "id": "p_ian_macnaughton",
     "name": "Ian MacNaughton",
     "birth_year": 1925,
@@ -1386,6 +1392,11 @@
     "path": "data/people/p_iben_vagle.json"
   },
   {
+    "id": "p_ibet_luna_huaccachi",
+    "name": "Ibet Luna Huaccachi",
+    "path": "data/people/p_ibet_luna_huaccachi.json"
+  },
+  {
     "id": "p_ibi_makienok",
     "name": "Ibi Makienok",
     "birth_year": 1975,
@@ -1950,6 +1961,12 @@
     "id": "p_ida_joglar",
     "name": "Ida Joglar",
     "path": "data/people/p_ida_joglar.json"
+  },
+  {
+    "id": "p_ida_kjellin",
+    "name": "Ida Kjellin",
+    "birth_year": 1975,
+    "path": "data/people/p_ida_kjellin.json"
   },
   {
     "id": "p_ida_kortbek",
@@ -2695,6 +2712,12 @@
     "id": "p_ignacio_duran",
     "name": "Ignacio Duran",
     "path": "data/people/p_ignacio_duran.json"
+  },
+  {
+    "id": "p_ignacio_ferreras",
+    "name": "Ignacio Ferreras",
+    "birth_year": 1959,
+    "path": "data/people/p_ignacio_ferreras.json"
   },
   {
     "id": "p_ignacio_gonzalez",
@@ -4078,6 +4101,11 @@
     "name": "Iker Casillas",
     "birth_year": 1981,
     "path": "data/people/p_iker_casillas.json"
+  },
+  {
+    "id": "p_iker_compean_leroux",
+    "name": "Iker Compeán Leroux",
+    "path": "data/people/p_iker_compean_leroux.json"
   },
   {
     "id": "p_iker_galartza",
@@ -5526,6 +5554,11 @@
     "name": "Ilya Oleynikov",
     "birth_year": 1947,
     "path": "data/people/p_ilya_oleynikov.json"
+  },
+  {
+    "id": "p_ilya_permyakov",
+    "name": "Ilya Permyakov",
+    "path": "data/people/p_ilya_permyakov.json"
   },
   {
     "id": "p_ilya_rubinstein",
@@ -9518,6 +9551,12 @@
     "path": "data/people/p_iosif_polyzoidis.json"
   },
   {
+    "id": "p_iosonouncane",
+    "name": "Iosonouncane",
+    "birth_year": 1982,
+    "path": "data/people/p_iosonouncane.json"
+  },
+  {
     "id": "p_iossif_surchadzhiev",
     "name": "Iossif Surchadzhiev",
     "birth_year": 1945,
@@ -9703,6 +9742,12 @@
     "name": "Ira Maya Sopha",
     "birth_year": 1968,
     "path": "data/people/p_ira_maya_sopha.json"
+  },
+  {
+    "id": "p_ira_newborn",
+    "name": "Ira Newborn",
+    "birth_year": 1949,
+    "path": "data/people/p_ira_newborn.json"
   },
   {
     "id": "p_ira_rosensweig",
@@ -10914,6 +10959,12 @@
     "path": "data/people/p_irina_lachina.json"
   },
   {
+    "id": "p_irina_lazarova",
+    "name": "Irina Lazarova",
+    "birth_year": 1974,
+    "path": "data/people/p_irina_lazarova.json"
+  },
+  {
     "id": "p_irina_leonova",
     "name": "Irina Leonova",
     "birth_year": 1978,
@@ -11982,6 +12033,11 @@
     "id": "p_isaac_sandoval",
     "name": "Isaac Sandoval",
     "path": "data/people/p_isaac_sandoval.json"
+  },
+  {
+    "id": "p_isaac_schamis",
+    "name": "Isaac Schamis",
+    "path": "data/people/p_isaac_schamis.json"
   },
   {
     "id": "p_isaac_sharry",
@@ -14800,6 +14856,11 @@
     "path": "data/people/p_italo_celoro.json"
   },
   {
+    "id": "p_italo_cordano",
+    "name": "Italo Cordano",
+    "path": "data/people/p_italo_cordano.json"
+  },
+  {
     "id": "p_italo_spinelli",
     "name": "Italo Spinelli",
     "birth_year": 1950,
@@ -15075,6 +15136,12 @@
     "name": "Iulian Postelnicu",
     "birth_year": 1978,
     "path": "data/people/p_iulian_postelnicu.json"
+  },
+  {
+    "id": "p_iulianandrei_craciun",
+    "name": "Iulian-Andrei Crăciun",
+    "birth_year": 1982,
+    "path": "data/people/p_iulianandrei_craciun.json"
   },
   {
     "id": "p_iunn_osp_hlynsdottir",
