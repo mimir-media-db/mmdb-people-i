@@ -111,6 +111,11 @@
     "path": "data/people/p_iain_canning.json"
   },
   {
+    "id": "p_iain_condron",
+    "name": "Iain Condron",
+    "path": "data/people/p_iain_condron.json"
+  },
+  {
     "id": "p_iain_de_caestecker",
     "name": "Iain De Caestecker",
     "birth_year": 1987,
@@ -4377,6 +4382,12 @@
     "name": "Ilari Johansson",
     "birth_year": 1968,
     "path": "data/people/p_ilari_johansson.json"
+  },
+  {
+    "id": "p_ilaria_bernardini",
+    "name": "Ilaria Bernardini",
+    "birth_year": 1976,
+    "path": "data/people/p_ilaria_bernardini.json"
   },
   {
     "id": "p_ilaria_borrelli",
@@ -8713,6 +8724,12 @@
     "name": "Ingvild Deila",
     "birth_year": 1986,
     "path": "data/people/p_ingvild_deila.json"
+  },
+  {
+    "id": "p_ingvild_h_rishi",
+    "name": "Ingvild H. Rishøi",
+    "birth_year": 1978,
+    "path": "data/people/p_ingvild_h_rishi.json"
   },
   {
     "id": "p_ingvild_haugstad",
@@ -16609,6 +16626,12 @@
     "name": "Ivan Trojan",
     "birth_year": 1964,
     "path": "data/people/p_ivan_trojan.json"
+  },
+  {
+    "id": "p_ivan_turgenev",
+    "name": "Ivan Turgenev",
+    "birth_year": 1818,
+    "path": "data/people/p_ivan_turgenev.json"
   },
   {
     "id": "p_ivan_turkovickrnjak",
