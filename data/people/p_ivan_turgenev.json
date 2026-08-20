@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ivan_turgenev",
+  "name": "Ivan Turgenev",
+  "external_ids": {
+    "wikidata": "Q42831",
+    "imdb": "nm0877057"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1818,
+  "death_year": 1883
+}
