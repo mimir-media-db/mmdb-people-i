@@ -1,5 +1,11 @@
 [
   {
+    "id": "p_i_a_l_diamond",
+    "name": "I. A. L. Diamond",
+    "birth_year": 1920,
+    "path": "data/people/p_i_a_l_diamond.json"
+  },
+  {
     "id": "p_i_chengsheng",
     "name": "I Cheng-Sheng",
     "path": "data/people/p_i_chengsheng.json"
@@ -1725,6 +1731,12 @@
     "path": "data/people/p_ichiro_ogura.json"
   },
   {
+    "id": "p_ichiro_okouchi",
+    "name": "Ichirō Ōkouchi",
+    "birth_year": 1968,
+    "path": "data/people/p_ichiro_okouchi.json"
+  },
+  {
     "id": "p_ichiro_yamamoto",
     "name": "Ichirō Yamamoto",
     "birth_year": 1917,
@@ -3318,6 +3330,12 @@
     "name": "Igor Pediček",
     "birth_year": 1957,
     "path": "data/people/p_igor_pedicek.json"
+  },
+  {
+    "id": "p_igor_perovic",
+    "name": "Igor Perović",
+    "birth_year": 1974,
+    "path": "data/people/p_igor_perovic.json"
   },
   {
     "id": "p_igor_pervic",
@@ -9733,6 +9751,12 @@
     "path": "data/people/p_irena_doubkova.json"
   },
   {
+    "id": "p_irena_douskova",
+    "name": "Irena Dousková",
+    "birth_year": 1964,
+    "path": "data/people/p_irena_douskova.json"
+  },
+  {
     "id": "p_irena_flury",
     "name": "Iréna Flury",
     "birth_year": 1984,
@@ -13318,6 +13342,12 @@
     "path": "data/people/p_ishita_dutta.json"
   },
   {
+    "id": "p_ishita_moitra",
+    "name": "Ishita Moitra",
+    "birth_year": 1983,
+    "path": "data/people/p_ishita_moitra.json"
+  },
+  {
     "id": "p_ishita_sharma",
     "name": "Ishita Sharma",
     "birth_year": 1990,
@@ -13334,6 +13364,12 @@
     "name": "Ishitta Arun",
     "birth_year": 1979,
     "path": "data/people/p_ishitta_arun.json"
+  },
+  {
+    "id": "p_ishq_bector",
+    "name": "Ishq Bector",
+    "birth_year": 1982,
+    "path": "data/people/p_ishq_bector.json"
   },
   {
     "id": "p_ishraq_shah",
@@ -15452,6 +15488,12 @@
     "name": "Ivan Krúpa",
     "birth_year": 1959,
     "path": "data/people/p_ivan_krupa.json"
+  },
+  {
+    "id": "p_ivan_kusan",
+    "name": "Ivan Kušan",
+    "birth_year": 1933,
+    "path": "data/people/p_ivan_kusan.json"
   },
   {
     "id": "p_ivan_labanda",
