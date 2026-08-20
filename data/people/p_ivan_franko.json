@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ivan_franko",
+  "name": "Ivan Franko",
+  "external_ids": {
+    "wikidata": "Q332462",
+    "imdb": "nm0291609"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1856,
+  "death_year": 1916
+}
